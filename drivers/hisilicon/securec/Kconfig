@@ -1,0 +1,8 @@
+
+
+
+config KERNEL_LIBHWSECUREC
+	bool "HW NEW secure c function library"
+	default y
+	help 
+		this is a secure function for kernel
