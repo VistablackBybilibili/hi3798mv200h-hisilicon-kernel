@@ -21,7 +21,5 @@ make ARCH=arm CROSS_COMPILE=arm-histbv310-linux- -j$(nproc) LOADADDR=0X2000000 u
 # 输出文件路径
 # arch/arm64/boot
 
-```bash
-
 # 温馨提示
 如果需要使用docker，请参考本仓库根目录的`hi3798mv310_defconfig`的配置文件
